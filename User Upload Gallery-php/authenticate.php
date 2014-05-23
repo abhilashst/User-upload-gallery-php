@@ -18,7 +18,7 @@ if(empty($loginusername) || empty($loginpassword))
 	$d=mysql_num_rows($b);
 */
 
-	else if($loginusername == 'pixelmedia' && $loginpassword == 'djiphantom')
+	else if($loginusername == 'admin' && $loginpassword == 'admin')
 	{
 		/*$status = $c['status'];
 		

@@ -62,7 +62,7 @@ require_once('header1.php');
 <section id="content" class="container">
 <div class="sixteen columns">
  <div class="contact_us">
-    <h1>Hi there Pixel Media!</h1>
+    <h1>Hi there</h1>
 	<pre>
 	  
 	  

@@ -6,7 +6,7 @@ ob_start();
 
 <head>
 
-<title> Pixel Media</title>
+<title> </title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
@@ -49,7 +49,7 @@ if(isset ($_SESSION['username']))
 			{
 			
 echo "<script>";
-echo "window.parent.location = 'index.php'";
+echo "window.parent.location = 'folio.php'";
 echo "</script>";
 			}
 			
@@ -60,12 +60,7 @@ require_once('header1.php');
 <div class="breadcrums">
   <div class="container">
     
-    <div class="where_i_am">
-      <ul>
-        <li><a href="#">Home</a><img src="img/breadcrum_arrow.png" alt=""></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </div>
+    
     <!-- where i am -->
   </div>
   <!-- container -->
@@ -76,7 +71,7 @@ require_once('header1.php');
 <section id="content" class="container">
 <div class="sixteen columns">
  <div class="contact_us">
-    <h1>Hi there Pixel Media!</h1>
+    <h1>Hi there </h1>
 	<pre>
 	  
 	  

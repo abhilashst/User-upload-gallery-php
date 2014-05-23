@@ -4,7 +4,7 @@ session_destroy();
 
 
 echo "<script>";
-echo "window.parent.location = 'index.php'";
+echo "window.parent.location = 'folio.php'";
 
 echo "</script>";
 exit();
